@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkslategrey;
+    color: whitesmoke;
+}
+
+#page-title {
+    font-size: 48px;
+    font-style: italic;
+    color: whitesmoke;
+}
+
+.recipe-list, li, p {
+    font-size: 24px;
+}
+
+:visited {
+    color: aqua;
+}
